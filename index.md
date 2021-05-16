@@ -27,6 +27,18 @@ One of the biggest and leading live entertainment company.
 
 <hr/>
 
+### [GlobalDatanet](https://globaldatanet.com/) (September 2020 - October 2020)
+
+**Position**: NodeJS Developer
+
+**Responsibilities**:
+  * Training machine learning models for detecting custom labels on images
+  * Developing server-less solutions for image blurring based on recognized labels
+
+**Technologies used**: _Docker, NodeJS, AWS Lambda, AWS Rekognition, AWS SageMaker_
+
+<hr/>
+
 ### [Clickworker](https://clickworker.com) (September 2015 - May 2018)
 
 Biggest crowd-sourcing platform in Europe, office located in Germany.
