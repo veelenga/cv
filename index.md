@@ -1,10 +1,13 @@
 ## Vitalii Elenhaupt
 
-Full-Stack Developer for more than 8 years.
+Software Developer for more than 8 years.
+
 Enjoy learning new programming languages and compiler theory.
 
-Positioning myself as a **responsible**, **goal–oriented** person who is
-able to learn and work **quickly and effectively**.
+Positioning myself as a responsible, goal–oriented person who is
+able to learn and work quickly and effectively.
+
+[Email](mailto:velenhaupt@gmail.com) / [Website](https://veelenga.github.io/) / [GitHub](https://github.com/veelenga) / [Twitter](https://twitter.com/veelenga) / [Medium](https://medium.com/@veelenga)
 
 ## ⚡ Technical Experience
 
@@ -157,7 +160,7 @@ _Typescript, Probot_
 
 ## 🎙️ Public Speaking
 
-Feb, 2020 - [Code, Lint, Test. In that order or how to do a static code analysis in Crystal](https://www.youtube.com/watch?v=8ASnTgKY6D4&ab_channel=ChicagoCrystal) @ ChicagoCrystal 
+Feb, 2020 - [Code, Lint, Test. In that order or how to do a static code analysis in Crystal](https://www.youtube.com/watch?v=8ASnTgKY6D4&ab_channel=ChicagoCrystal) @ ChicagoCrystal
 
 ## 🚴 Hobbies
 
