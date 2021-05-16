@@ -3,8 +3,8 @@
 Full-Stack Developer for more than 8 years.
 Enjoy learning new programming languages and compiler theory.
 
-Positioning myself as **responsible**, **goal – oriented** person who is
-able learning and working **quickly and effectively**.
+Positioning myself as a **responsible**, **goal–oriented** person who is
+able to learn and work **quickly and effectively**.
 
 ## ⚡ Technical Experience
 
@@ -19,7 +19,7 @@ One of the biggest and leading live entertainment company.
 **Responsibilities**:
   * Developing API backend application on Ruby on Rails
   * Developing SPA frontend application on EmberJS
-  * Client communication and first line support
+  * Client communication and first-line support
   * Architecting and designing the system
   * Release review and planning process
 
@@ -37,7 +37,7 @@ Biggest crowd-sourcing platform in Europe, office located in Germany.
   * Developing new marketplace applications on Rails 4/5
   * Supporting huge legacy monolithic Rails 2 application
   * Developing infrastructure for micro-service architecture (RabbitMQ, several services in C#, AWS Lambdas)
-  * Third party integrations (Transferwise, Paypal, reCAPTCHA etc)
+  * Third-party integrations (Transferwise, Paypal, reCAPTCHA, etc)
   * Implementing and supporting centralized authentication (CAS)
   * Implementing and supporting UI/UX using frontend frameworks like BackboneJS and AngularJS
 
@@ -59,19 +59,19 @@ Biggest crowd-sourcing platform in Europe, office located in Germany.
 
 #### **Project name**: Genesys Platform SDK (as a contractor in [Genesys](https://www.genesys.com/))
 
-Platform SDK is a high level interface that needed for direct communication with Genesys servers in their
-native protocols. Able to send/receive messages via TCP/IP protocol and represent it in object model. Is a
-core Genesys library that used as a third party dependency almost in all other Genesys Products.
+Platform SDK is a high-level interface that needed for direct communication with Genesys servers in their
+native protocols. Able to send/receive messages via TCP/IP protocol and represent it in the object model. Is a
+core Genesys library that used as a third-party dependency almost in all other Genesys Products.
 
 **Position**: Java Developer
 
 **Responsibilities**:
   * Requirement analysis and validation
   * Designing of software design documents
-  * Involved in implementation phase for developing multithreaded classes
+  * Involved in the implementation phase for developing multithreaded classes
   * Involved in design and architecture of the implementation
   * Participated in regular requirement and status calls with internal customers
-  * Involved in unit and functional testing
+  * Involved in the unit and functional testing
 
 **Position**: Build Engineer
 
@@ -102,7 +102,7 @@ Web service for Ukrainian mobile operator Kyivstar with content targeting and Ce
 **Position**: Java Enterprise Developer (Trainee)
 
 **Responsibilities**:
-  * Developing service logic, DAO and service layers
+  * Developing service logic, DAO, and service layers
   * Developing service layer for interacting with UI and persistent layers
   * Implementing JSF pages based on AJAX
   * Unit tests cases implementation
