@@ -158,6 +158,10 @@ _ReactJS, AWS Lambda (Serverless Crystal)_
 <br/>
 _Typescript, Probot_
 
+[**Russian Block List**](https://rblist.info) - A web page to list companies who suspend their business in Russia because of invasion to Ukraine
+<br/>
+_ReactJS, TailwindCSS_
+
 ## 🎙️ Public Speaking
 
 Feb, 2020 - [Code, Lint, Test. In that order or how to do a static code analysis in Crystal](https://www.youtube.com/watch?v=8ASnTgKY6D4&ab_channel=ChicagoCrystal) @ ChicagoCrystal
