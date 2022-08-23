@@ -27,6 +27,8 @@ Delivers product to well known big tech companies like Adobe, Roche, Google etc.
   * Release review and deployment process
   * Configuration manager
 
+<hr/>
+
 **Technologies used**: _ReactJS, GraphQL, Golang, Docker, AWS, Rails etc._
 
 ### [Kunai](https://www.kunaico.com/) (May 2018 - Oct 2021)
