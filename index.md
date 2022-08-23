@@ -11,7 +11,25 @@ able to learn and work quickly and effectively.
 
 ## ⚡ Technical Experience
 
-### [Kunai](https://www.kunaico.com/) (May 2018 - now)
+### [Veer](https://getveer.com/) (Oct 2021 - Now)
+
+A human resources SaaS company that manages leaves of absence and disability management programs for large enterprises.
+
+Delivers product to well known big tech companies like Adobe, Roche, Google etc.
+
+**Position**: Full-Stack Developer
+
+**Responsibilities**:
+  * Developing GraphQL API backend application on Golang
+  * Developing frontend application on ReactJS
+  * Developing internal admin system on Ruby on Rails
+  * Architecting and designing the system
+  * Release review and deployment process
+  * Configuration manager
+
+**Technologies used**: _ReactJS, GraphQL, Golang, Docker, AWS, Rails etc._
+
+### [Kunai](https://www.kunaico.com/) (May 2018 - Oct 2021)
 
 #### **Project name**: [AEG Presents](https://www.aegpresents.com/)
 
