@@ -178,7 +178,7 @@ _ReactJS, AWS Lambda (Serverless Crystal)_
 <br/>
 _Typescript, Probot_
 
-[**Russian Block List**](https://rblist.info) - A web page to list companies who suspend their business in Russia because of invasion to Ukraine
+[**Russian Block List**](https://veelenga.github.io/rblist) - A web page to list companies who suspend their business in Russia because of invasion to Ukraine
 <br/>
 _ReactJS, TailwindCSS_
 
