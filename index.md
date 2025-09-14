@@ -166,7 +166,7 @@ Web service for Ukrainian mobile operator Kyivstar with content targeting and Ce
 <br/>
 _Crystal, Hexo blog framework, VSCode plugin, Emacs Lisp plugin, Github Actions, Codacy Integration_
 
-[**Crystal[ANN]**](https://crystal-ann.com/) - Announce new project, blog post, version update or any other Crystal work.
+[**Crystal[ANN]**](https://github.com/crystal-community/crystal-ann) - Announce new project, blog post, version update or any other Crystal work.
 <br/>
 _Crystal, Amber framework, Docker, Heroku_
 
