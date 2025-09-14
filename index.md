@@ -17,15 +17,15 @@ A human resources SaaS company that manages leaves of absence and disability man
 
 Delivers product to well known big tech companies like Adobe, Roche, Google etc.
 
-**Position**: Full-Stack Developer
+**Position**: Full-Stack Developer, DevOps, AI Engineering
 
 **Responsibilities**:
   * Developing GraphQL API backend application on Golang
   * Developing frontend application on ReactJS
   * Developing internal admin system on Ruby on Rails
   * Architecting and designing the system
-  * Release review and deployment process
-  * Configuration manager
+  * Infrastructure support
+  * Developing AI system, ISO/IEC 42001
 
 <hr/>
 
