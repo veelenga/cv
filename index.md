@@ -1,11 +1,10 @@
 ## Vitalii Elenhaupt
 
-Software Developer for more than 8 years.
+Software Developer with 10+ years of experience.
 
 Enjoy learning new programming languages and compiler theory.
 
-Positioning myself as a responsible, goal–oriented person who is
-able to learn and work quickly and effectively.
+Positioning myself as a responsible, goal-oriented person who is able to learn and work quickly and effectively.
 
 [Email](mailto:velenhaupt@gmail.com) / [Website](https://veelenga.github.io/) / [GitHub](https://github.com/veelenga) / [Twitter](https://twitter.com/veelenga) / [Medium](https://medium.com/@veelenga)
 
@@ -14,8 +13,7 @@ able to learn and work quickly and effectively.
 ### [Veer](https://getveer.com/) (Oct 2021 - Now)
 
 A human resources SaaS company that manages leaves of absence and disability management programs for large enterprises.
-
-Delivers product to well known big tech companies like Adobe, Roche, Google etc.
+Delivers product to well known big tech companies like Adobe, IBM, Google, etc.
 
 **Position**: Full-Stack Developer, DevOps, AI Engineering
 
@@ -29,7 +27,7 @@ Delivers product to well known big tech companies like Adobe, Roche, Google etc.
 
 <hr/>
 
-**Technologies used**: _ReactJS, GraphQL, Golang, Docker, AWS, Rails etc._
+**Technologies used**: _ReactJS, GraphQL, Golang, Docker, AWS, Ruby on Rails_
 
 ### [Kunai](https://www.kunaico.com/) (May 2018 - Oct 2021)
 
@@ -46,7 +44,7 @@ One of the biggest and leading live entertainment company.
   * Architecting and designing the system
   * Release review and planning process
 
-**Technologies used**: _RoR, EmberJS, JSONAPI, Redis, Sidekiq, Kubernetes, Docker etc._
+**Technologies used**: _Ruby on Rails, EmberJS, JSONAPI, Redis, Sidekiq, Kubernetes, Docker_
 
 <hr/>
 
@@ -66,27 +64,21 @@ One of the biggest and leading live entertainment company.
 
 Biggest crowd-sourcing platform in Europe, office located in Germany.
 
-**Position**: Full-Stack/Ruby on Rails Developer
+**Position**: Full-Stack Developer, SRE
 
 **Responsibilities**:
   * Developing new marketplace applications on Rails 4/5
   * Supporting huge legacy monolithic Rails 2 application
   * Developing infrastructure for micro-service architecture (RabbitMQ, several services in C#, AWS Lambdas)
-  * Third-party integrations (Transferwise, Paypal, reCAPTCHA, etc)
+  * Third-party integrations (Transferwise, Paypal, reCAPTCHA, etc.)
   * Implementing and supporting centralized authentication (CAS)
   * Implementing and supporting UI/UX using frontend frameworks like BackboneJS and AngularJS
-
-**Technologies used**: _MySQL, MongoDB, RoR, BackboneJS, AngularJS, RabbitMQ, Redis, Sidekiq, AWS Lambda, Capistrano, Rspec, Minitest, Capybara, FactoryBoy etc._
-
-**Position**: Site Reliability Engineer
-
-**Responsibilities**:
   * Developing deployment scripts and making deployments (Capistrano, Docker)
   * Leverage tooling and automation
-  * First line support for broken environment etc
+  * First line support for broken environment etc.
   * Security audit
 
-**Technologies used**: _Docker, HAProxy, Nginx, MySQL, MongoDB etc._
+**Technologies used**: _MySQL, MongoDB, Ruby on Rails, BackboneJS, AngularJS, RabbitMQ, Redis, Sidekiq, AWS Lambda, HAProxy, Nginx_
 
 <hr/>
 
@@ -95,38 +87,14 @@ Biggest crowd-sourcing platform in Europe, office located in Germany.
 #### **Project name**: Genesys Platform SDK (as a contractor in [Genesys](https://www.genesys.com/))
 
 Platform SDK is a high-level interface that needed for direct communication with Genesys servers in their
-native protocols. Able to send/receive messages via TCP/IP protocol and represent it in the object model. Is a
-core Genesys library that used as a third-party dependency almost in all other Genesys Products.
+native protocols.
 
-**Position**: Java Developer
-
-**Responsibilities**:
-  * Requirement analysis and validation
-  * Designing of software design documents
-  * Involved in the implementation phase for developing multithreaded classes
-  * Involved in design and architecture of the implementation
-  * Participated in regular requirement and status calls with internal customers
-  * Involved in the unit and functional testing
-
-**Position**: Build Engineer
+**Position**: Java Developer, Build Engineer
 
 **Responsibilities**:
-  * Developing automated process for builds and deployments with Jenkins
-  * Involved in development of Continuous Delivery process
-  * Preparing and maintaining fully automated build and test processes
-  * Developing automated process of Genesys Server deployments with Chef
-
-#### **Project name**: [Kyivstar](https://kyivstar.ua/uk/mm)
-
-Web service for Ukrainian mobile operator Kyivstar with content targeting and Central Authentication Service(CAS) integration.
-
-**Position**: Software consultant
-
-**Responsibilities**:
-  * Involved in implementation of designing a software architecture
-  * Played a role of configuration manager
-  * Involved in development of Continuous Integration process with Jenkins
-  * Involved in development of Selenium Grid system configuration
+  * Developing highly scalable SDKs
+  * Developing CI/CD process
+  * PRD development and customer support
 
 <hr/>
 
@@ -140,9 +108,8 @@ Web service for Ukrainian mobile operator Kyivstar with content targeting and Ce
   * Developing service logic, DAO, and service layers
   * Developing service layer for interacting with UI and persistent layers
   * Implementing JSF pages based on AJAX
-  * Unit tests cases implementation
 
-**Technologies used**: _Java EE (EJB, JMS, Servlets, JSP), JSF, Ajax, Spring MVC, Hibernate, Tomcat, JBoss, jUnit, jMock etc._
+**Technologies used**: _EJB, JMS, Servlets, JSP, etc_
 
 ## 🎓 Education
 
@@ -188,6 +155,6 @@ Feb, 2020 - [Code, Lint, Test. In that order or how to do a static code analysis
 
 ## 🚴 Hobbies
 
-- Running/Cycling
-- 3D Printing
-- Photographing
+* Running/Cycling
+* 3D Printing
+* Photographing
